@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm an 18-year-old recent graduate of the **ICT50220 Diploma of Information Technology (Advanced Programming)**, eager to kickstart my career in the tech industry. While I may not have formal work experience yet, I’ve been actively building my skills through hands-on projects in **web development** and **C++ programming**. I’m passionate about learning, problem-solving, and creating impactful solutions. I’m excited to bring my enthusiasm, dedication, and fresh perspective to a professional team. Let’s connect—I’m ready to contribute and grow! 🚀
+👋 Hi there! I'm an 19-year-old recent graduate of the **ICT50220 Diploma of Information Technology (Advanced Programming)** studying Engineering, eager to kickstart my career in the tech industry.🚀
 
 
 ## 🌐 Socials:
